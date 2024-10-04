@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "zerokdb-lib"
+name = "zerokdblib"
 version = "0.1.0"
 description = ""
 authors = ["AE Studio <lorenzo.tomaz@ae.studio>"]
